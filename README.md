@@ -1,6 +1,6 @@
 # Carnival-App-Support
 Support Site for Carnival App
----
+
 ## Explore the Shore '24
 
 Thank you for using the Punahou 'Enehana Club's first app release to support the Punahou Carnival!
