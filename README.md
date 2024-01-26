@@ -9,5 +9,7 @@ This app is designed primarily for iPhone use using iOS version 17.0 or higher f
 If you have any issues, feature requests, or other comments, please let us know!
 Message us at carnivalappfeedback@punahou.edu
 
+Click [here](PRIVACY.md) to view the app's privacy policy
+
 ![Explore the Shore Logo](images/exploretheshore.jpg)
 
