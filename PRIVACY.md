@@ -1,8 +1,8 @@
-Privacy Policy for Explore the Shore '24
+Privacy Policy for Welcome to the Jungle '26
 
-Last Updated: 1/26/2024
+Last Updated: 1/24/2026
 
-Welcome to Explore the Shore '24. This privacy policy outlines our commitment to your privacy while using our app.
+Welcome to Welcome to the Jungle '26. This privacy policy outlines our commitment to your privacy while using our app.
 
 ## 1. No Personal Information Collected
 
