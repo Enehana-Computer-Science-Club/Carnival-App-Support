@@ -11,3 +11,4 @@ Message us at __carnivalappfeedback@punahou.edu__
 
 Click [here](PRIVACY.md) to view the app's privacy policy
 
+![Welcome to the Jungle](images/welcometothejungle.png)
