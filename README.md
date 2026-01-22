@@ -18,14 +18,14 @@ Message us at __carnivalappfeedback@punahou.edu__ or fill out [this form](https:
 
 ## FAQs
 
-### Where and when is the Punahou Carnival?
+#### When and where is the Punahou Carnival?
 The Punahou Carnival will be held on the first Friday and Saturday in February (Feb 6–7, 2026), from 11 a.m. to 10 p.m. The theme for this year is "Welcome to the Jungle"!
 
-### What are the main features of the app?
+#### What are the main features of the app?
 wait times, interactive map, info + schedule, etc
 
-### How do I submit wait times?
+#### How do I submit wait times?
 insert sample response here
 
-### Where can I find more information/updates?
+#### Where can I find more information/updates?
 See the [website for the Punahou Carnival](https://carnival.punahou.edu/), which has information on food, entertainment, attractions, shopping, and more! In addition, you may email __carnival@punahou.edu__ for any questions or feedback. You can also follow us on Instagram @Punahou_Carnival. 
